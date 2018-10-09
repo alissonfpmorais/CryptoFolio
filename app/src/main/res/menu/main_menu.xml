@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/tasks">
+        <item
+            android:icon="@drawable/baseline_view_list_24"
+            android:title="@string/screen_label_coins"/>
+    </group>
+    <group android:id="@+id/settings">
+        <item
+            android:id="@+id/aboutFragment"
+            android:icon="@drawable/baseline_exit_to_app_24"
+            android:title="@string/screen_label_about"
+            android:menuCategory="secondary"/>
+    </group>
+</menu>

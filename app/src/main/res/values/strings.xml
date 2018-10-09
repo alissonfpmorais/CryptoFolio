@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CryptoFolio</string>
+
+    <!-- Labels -->
+    <string name="screen_label_coins">Coins</string>
+    <string name="screen_label_details">Details</string>
+    <string name="screen_label_about">About</string>
+</resources>
